@@ -9,15 +9,12 @@ This dataset was programmatically generated using Python to simulate a realistic
 
 The purpose of this dataset is to practice and demonstrate professional SQL-based data cleaning workflows.
 
-File included:
 
-
-Base rows generated: **1000**  
-Final row count may vary due to structural manipulations and duplicates.
 ---
 
 ## Link of the video for this analysis:
 https://youtu.be/pjGINykw6rw?si=XZMqE2BKo7-hDQw2
+
 
 ---
 
